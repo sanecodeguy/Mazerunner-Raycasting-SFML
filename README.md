@@ -1,6 +1,7 @@
-**Mazerunner: The Golden Door**
+**Mazerunner: The Golden Door 3D**
 
-Mazerunner: The Golden Door is an exciting maze-exploration game developed using C++ and SFML. The objective is to navigate the maze, battle monsters, and find the elusive golden door to escape while avoiding death.
+
+Mazerunner: The Golden Door is an exciting maze-exploration 3D game developed using C++ and SFML. The objective is to navigate the maze, battle monsters, and find the elusive golden door to escape while avoiding death.
 
 ![image](https://github.com/user-attachments/assets/4d386ce8-4b5d-4605-b421-d8c98414067b)
 
@@ -22,14 +23,14 @@ Follow these steps to download, build, and run the game:
 
 **Step 1: Clone the Repository**
 
-    git clone https://github.com/yourusername/Mazerunner-Golden-Door.git
+    git clone https://github.com/sanecodeguy/Mazerunner-Golden-Door.git
     cd Mazerunner-Golden-Door
 
 **Step 2: Install Prerequisites**
 
 Ensure g++ and SFML are installed:
 
- ** For Arch Linux **
+ **For Arch Linux**
 
     sudo pacman -S gcc sfml
 
@@ -56,6 +57,4 @@ Execute the game using:
 **License**
 This project is licensed under rizzons.
 
-Feel free to fork the repository and contribute to enhance the gameplay or add new features!
-
-Make sure to replace yourusername in the repository link with your actual GitHub username.
+**Feel free to fork the repository and contribute to enhance the gameplay or add new features!**
