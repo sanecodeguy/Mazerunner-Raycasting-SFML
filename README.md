@@ -23,8 +23,8 @@ Follow these steps to download, build, and run the game:
 
 **Step 1: Clone the Repository**
 
-    git clone https://github.com/sanecodeguy/Mazerunner-Golden-Door.git
-    cd Mazerunner-Golden-Door
+    git clone https://github.com/sanecodeguy/Mazerunner-Raycasting-SFML.git
+    cd Mazerunner-Raycasting-SFML
 
 **Step 2: Install Prerequisites**
 
